@@ -1,16 +1,5 @@
 <p align="left">
   <picture>
-    <img src="https://komarev.com/ghpvc/?username=LivingGhost" alt="" />
-  </picture>
-</p>
-<p align="left">
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LivingGhost&private=true&layout=compact&theme=radical&langs_count=10" alt="" />
-  </picture>
-</p>
-
-<p align="left">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="output/metrics.base.svg" width="400" />
     <source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
     <img src="output/metrics.base.svg" alt="" width="400" />
