@@ -1,4 +1,13 @@
-## Hi there 👋
+<p align="left">
+  <picture>
+    <img src="https://komarev.com/ghpvc/?username=LivingGhost" alt="" />
+  </picture>
+</p>
+<p align="left">
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LivingGhost&private=true&layout=compact&theme=radical&langs_count=10" alt="" />
+  </picture>
+</p>
 
 <!--
 **LivingGhost/LivingGhost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
